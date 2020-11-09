@@ -1,6 +1,6 @@
 ### Hello, I'm **faraj**! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
- I am 16 years old programmer I'm interested in C++, C#, Kotlin. I´m based in Turkey.
+ I am 16 years old programmer I'm interested in C++, C#, Kotlin, Python. I´m based in Turkey.
 
 Since 2017, I've partnered with different people, made good friends, met good people, collaborated in most places and now I'm here! ✨
 
