@@ -9,7 +9,9 @@ Since 2017, I've partnered with different people, made good friends, met good pe
 Languages: **C++, C#, Kotlin, Python**
 
 ### Find me elsewhere 🌎
- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/farajyeet)](https://twitter.com/farajyeet) (https://discordapp.com/api/guilds/776793836411813909/widget.png?style=shield)](https://discord.gg/java)
+ [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/farajyeet)](https://twitter.com/farajyeet)
+ 
+ <iframe src="https://discord.com/widget?id=776793836411813909&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ### Stats
 
