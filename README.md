@@ -16,3 +16,5 @@ Languages: **C++, C#, Kotlin, Python**
 ### Stats
 
 [![faraj](https://github-readme-stats.vercel.app/api?username=faraaj&show_icons=true&count_private=true&theme=dark)](https://faraaj.github.io) 
+
+<iframe src="https://player.twitch.tv/?channel=kendinemuzisyen&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
